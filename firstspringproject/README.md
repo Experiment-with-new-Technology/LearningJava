@@ -71,7 +71,7 @@ server.port=1010
 spring.mvc.view.prefix: /WEB-INF/views/
 spring.mvc.view.suffix: .jsp
 ``` 
-d. create directory webapp/WEB-INF/views & create index.jsp file
+d. create directory src/main/webapp/WEB-INF/views & create index.jsp file
 
 ```
 <h1>Hello</h1>
